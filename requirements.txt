@@ -1,0 +1,7 @@
+pandas
+numpy
+glob
+scipy
+keras
+sci-kit learn
+python 3
